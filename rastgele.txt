@@ -5,4 +5,4 @@ sanki oldu
 bbbbbb
 cccc
 ......
-********00000
+********
