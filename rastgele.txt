@@ -1,6 +1,7 @@
 ﻿denememeeeme-nsefsfkjsfjksfs
 yenileniyor inş canım ya
 böyle yapınca
+<<<<<<< HEAD
 burdan olcak galiba
 burdan yazdım sen naptın ?
 allahallah
@@ -10,3 +11,10 @@ masterdan değiştirridli
 nnnnnn
 şşşşş
 çöçööçöçöç
+=======
+sanki oldu
+bbbbbb
+cccc
+......
+********
+>>>>>>> 9cc1efa1b187866472979e91934d0fe4f0d0c69b
